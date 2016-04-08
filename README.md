@@ -1,6 +1,6 @@
 # SkilStak Pro Project Boilerplate
 
-*Use this repo as a guideline for a the minimum required for your Pro
+*Use this repo as a guideline for the minimum required for your Pro
 project plan. Pro students are required to review and open comments as
 issues on two other projects besides their own. The quality of their
 comments will be considered in Pro invite selections each semester.*
