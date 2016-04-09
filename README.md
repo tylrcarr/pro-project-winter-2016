@@ -1,4 +1,4 @@
-# SkilStak Pro Project Boilerplate
+# YOUR PROJECT TITLE, SkilStak Pro Winter|Fall|Summer YEAR
 
 *Text in italics is for explanation and can be deleted.*
 
@@ -20,11 +20,23 @@ to do with aptitude. You can be the smartest person in the school
 and if you do not complete your project deliverables, including
 this project plan, you're out of Pro, immediately.
 
+This may seem tough and it is for a reason. The workplace has no
+patience for anything less than professionalism and SkilStak Pro is
+the place to learn this, not on the job after you've learned it the
+hard way with more dire consequences.
+
+## Overview
 
 *Every invited Pro student must create a semester project plan repo
 and complete the [Overview](#overview) and [Objectives](#objectives)
 sections the by the second week of class or lose their invite
 immediately* 
+
+
+
+## Objectives
+
+
 
 *Every Pro student must open at least one GitHub Enhancement issue on
 two different Pro projects by the third week of class or lose their
