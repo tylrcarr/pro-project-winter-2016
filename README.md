@@ -6,13 +6,14 @@ SkilStak Pro [Winter|Fall|Summer] Year
 
 *Change the above for your semester and year*
 
-*Name (or rename) the repo to
-`pro-project-[winter|fall|summer]-year` so everyone can find it.*
+*Name (or rename) the repo to `pro-project-[winter|fall|summer]-year`
+so everyone can find it.* You are welcome to delete the repo after
+the course ends if you like (assuming you have another repo containing
 
-
-*Use this repo as a guideline for the minimum required for your Pro
-project plan. You can fork it, but creating your own from scratch is
-preferred.*
+*Use this repo as a guideline for the minimum required documentation
+for your Pro project plan. You can fork it, but creating your own
+from scratch is preferred. The professional world requires project
+plans and so does this course.*
 
 ***Read carefully if you are in Pro because you can lose your invite
 immediately if you fail to complete the project plan requirements on
@@ -21,27 +22,26 @@ schedule.***
 ***Be professional and create something worth presenting, even your
 project is a game or something silly, take this plan seriously, no
 really, do. Remember, you are competing to keep your spot in the
-Pro program.***
+Pro program.*** The more impressive your project the more likely
+you will receive another Pro invite. Like the workplace,  SkilStak
+Pro program is competitive program. Those with the best project
+history and proposals will be given the invites. This has nothing
+to do with aptitude.  You can be the smartest person in the school
+and if you do not complete your project deliverables, including
+this project plan, you're out of Pro, immediately.
 
-The more impressive your project the more likely you will receive
-another Pro invite. Like the workplace,  SkilStak Pro program is
-competitive program. Those with the best project history and proposals
-will be given the invites. This has nothing to do with aptitude.
-You can be the smartest person in the school and if you do not
-complete your project deliverables, including this project plan,
-you're out of Pro, immediately.
-
-This may seem tough and it is for a reason. The workplace has no
-patience for anything less than professionalism and SkilStak Pro is
-the place to learn this, not on the job after you've learned it the
-hard way with more dire consequences.
+This may seem tough. It is, for a reason. The workplace has no
+patience for anything less than professionalism and personal
+responsibility and SkilStak Pro is the place to learn this, not on
+the job after you've learned it the hard way with more dire
+consequences.
 
 ## Overview
 
 *Every invited Pro student must create a semester project plan repo
 and complete the [Overview](#overview) and [Objectives](#objectives)
-sections the by the second week of class or lose their invite
-immediately* 
+sections the* ***by the second week of class or lose their invite
+immediately.*** 
 
 ## Objectives
 
