@@ -6,6 +6,9 @@ SkilStak Pro [Winter|Fall|Summer] Year
 
 *Change the above for your semester and year*
 
+*Name (or rename) the repo to
+`pro-project-[winter|fall|summer]-year` so everyone can find it.*
+
 
 *Use this repo as a guideline for the minimum required for your Pro
 project plan. You can fork it, but creating your own from scratch is
