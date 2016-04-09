@@ -13,7 +13,8 @@ you will receive another Pro invite. Like the workplace,  SkilStak
 Pro program is competitive program. Those with the best project
 history and proposals will be given the invites. This has nothing
 to do with aptitude. You can be the smartest person in the school
-and if you do not complete your project you're out of Pro.
+and if you do not complete your project deliverables, including
+this project plan, you're out of Pro, immediately.
 
 *Use this repo as a guideline for the minimum required for your Pro
 project plan. You can fork it, but creating your own from scratch is
