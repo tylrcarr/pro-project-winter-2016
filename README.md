@@ -2,7 +2,7 @@
 
 *Text in italics is for explanation and can be deleted.*
 
-SkilStak Pro [Winter|Fall|Summer] Year
+SkilStak Pro *[Winter|Fall|Summer] Year*
 
 *Change the above for your semester and year*
 
