@@ -6,6 +6,14 @@
 immediately if you fail to complete the project plan requirements on
 schedule.***
 
+***The biggest guideline of all is to create something worth
+presenting. The most impressive your project the more likely you will
+receive another Pro invite. The SkilStak Pro program is competitive
+and those with the best project history and proposals will be given
+the invites. This has nothing to do with aptitude. You can be the
+smartest person in the school and if you do not complete your project
+you're out of Pro.***
+
 *Use this repo as a guideline for the minimum required for your Pro
 project plan. You can fork it, but creating your own from scratch is
 preferred.*
