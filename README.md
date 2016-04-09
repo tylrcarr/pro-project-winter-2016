@@ -47,9 +47,9 @@ organization to contain the actual source code. Link to it here.
 The idea is that the projects created in Pro could live on their
 own without being associated with the SkilStak Pro program.*
 
-*Every Pro student must open at least one GitHub Enhancement issue on
-two different Pro projects by the third week of class or lose their
-Pro invite immediately.*
+*Every Pro student must open at least one GitHub Enhancement issue
+on two different Pro project plan repos by the third week of class
+or lose their Pro invite.*
 
 *The quality of all comments made on others projects will be taken
 into consideration for further Pro invites. Silly or extraneous
