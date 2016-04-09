@@ -4,7 +4,7 @@
 
 SkilStak Pro *[Winter|Fall|Summer] Year*
 
-*Change the above for your semester and year*
+*Change the above for your semester and year.*
 
 *Name (or rename) the repo to `pro-project-[winter|fall|summer]-year`
 so everyone can find it. You are welcome to delete the repo after
