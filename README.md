@@ -2,6 +2,10 @@
 
 *Text in italics is for explanation and can be deleted.*
 
+*Use this repo as a guideline for the minimum required for your Pro
+project plan. You can fork it, but creating your own from scratch is
+preferred.*
+
 ***Read carefully if you are in Pro because you can lose your invite
 immediately if you fail to complete the project plan requirements on
 schedule.***
@@ -16,9 +20,6 @@ to do with aptitude. You can be the smartest person in the school
 and if you do not complete your project deliverables, including
 this project plan, you're out of Pro, immediately.
 
-*Use this repo as a guideline for the minimum required for your Pro
-project plan. You can fork it, but creating your own from scratch is
-preferred.*
 
 *Every invited Pro student must create a semester project plan repo
 and complete the [Overview](#overview) and [Objectives](#objectives)
