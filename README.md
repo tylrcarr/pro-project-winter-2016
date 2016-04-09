@@ -1,6 +1,10 @@
-# YOUR PROJECT TITLE, SkilStak Pro Winter|Fall|Summer YEAR
+# YOUR PROJECT TITLE
 
 *Text in italics is for explanation and can be deleted.*
+
+SkilStak Pro [Winter|Fall|Summer] Year
+
+*Change the above for your semester and year*
 
 *Use this repo as a guideline for the minimum required for your Pro
 project plan. You can fork it, but creating your own from scratch is
@@ -12,13 +16,15 @@ schedule.***
 
 ***The biggest guideline of all is to create something worth
 presenting. Remember, you are competing to keep your spot in the
-Pro program.*** The more impressive your project the more likely
-you will receive another Pro invite. Like the workplace,  SkilStak
-Pro program is competitive program. Those with the best project
-history and proposals will be given the invites. This has nothing
-to do with aptitude. You can be the smartest person in the school
-and if you do not complete your project deliverables, including
-this project plan, you're out of Pro, immediately.
+Pro program.*** 
+
+The more impressive your project the more likely you will receive
+another Pro invite. Like the workplace,  SkilStak Pro program is
+competitive program. Those with the best project history and proposals
+will be given the invites. This has nothing to do with aptitude.
+You can be the smartest person in the school and if you do not
+complete your project deliverables, including this project plan,
+you're out of Pro, immediately.
 
 This may seem tough and it is for a reason. The workplace has no
 patience for anything less than professionalism and SkilStak Pro is
@@ -32,9 +38,18 @@ and complete the [Overview](#overview) and [Objectives](#objectives)
 sections the by the second week of class or lose their invite
 immediately* 
 
-
-
 ## Objectives
+
+*Here is where you write your goals, mostly what you want to get
+out of the project. Keep them in personal terms (i.e. I want to
+learn Go HTML template language.) and not external (i.e. I want to
+sell 20 apps).*
+
+* Change these objectives to project plan objectives
+* Delete the comments from this project plan
+* Keep my Pro invite by completing all project deliverables
+
+##
 
 
 
