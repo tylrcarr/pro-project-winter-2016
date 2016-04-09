@@ -1,7 +1,16 @@
 # SkilStak Pro Project Boilerplate
 
+*Text in italics is for explanation and can be deleted.*
+
 *Use this repo as a guideline for the minimum required for your Pro
-project plan. Pro students are required to review and open comments as
+project plan.*
+
+*Every Pro student must create a semester project plan repo and
+complete it in the by the second week of class or loses their invite
+immediately (no refunds, but can attend another course based on
+availability).*
+
+Pro students are required to review and open comments as
 issues on two other projects besides their own. The quality of their
 comments will be considered in Pro invite selections each semester.*
 
