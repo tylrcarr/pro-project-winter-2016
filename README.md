@@ -2,14 +2,12 @@
 
 *Text in italics is for explanation and can be deleted.*
 
-SkilStak Pro *[Winter|Fall|Summer] Year*
+SkilStak Pro Winter 2016
 
-*Change the above for your semester and year.*
-
-*Name (or rename) the repo to `pro-project-[winter|fall|summer]-year`
-so everyone can find it. You are welcome to delete the repo after
-the course ends if you like (assuming you have properly created
-another project repo, or have in past Pro classes).*
+*Name your repo `pro-project-winter-2016` so everyone can find it.
+You are welcome to delete the repo after the course ends if you
+like (assuming you have properly created another project repo, or
+have in past Pro classes).*
 
 *Use this repo as a guideline for the minimum required documentation
 for your Pro project plan. You can fork it, but creating your own
