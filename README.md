@@ -6,6 +6,7 @@ SkilStak Pro [Winter|Fall|Summer] Year
 
 *Change the above for your semester and year*
 
+
 *Use this repo as a guideline for the minimum required for your Pro
 project plan. You can fork it, but creating your own from scratch is
 preferred.*
@@ -14,9 +15,10 @@ preferred.*
 immediately if you fail to complete the project plan requirements on
 schedule.***
 
-***The biggest guideline of all is to create something worth
-presenting. Remember, you are competing to keep your spot in the
-Pro program.*** 
+***Be professional and create something worth presenting, even your
+project is a game or something silly, take this plan seriously, no
+really, do. Remember, you are competing to keep your spot in the
+Pro program.***
 
 The more impressive your project the more likely you will receive
 another Pro invite. Like the workplace,  SkilStak Pro program is
