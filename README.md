@@ -75,7 +75,7 @@ invite.*
 *Fill out this section between weeks 13 to keep your Pro
 invite.*
 
-* Describe where you would like to go with this project next, if at
+*Describe where you would like to go with this project next, if at
 all. If you feel you have finished this particular project describe
 that.*
 
