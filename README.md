@@ -9,14 +9,16 @@ will always have you fork the *SkilStak Pro Project Documentation*
 repo containing the schedule, deadlines, and expectations for that
 specific semester.
 
-Next (Summer 2016) semester will have a full repo from the start. In
-fact, one of the [deadlines](schedule.md) for the remaining weeks of
-this semester is to review it completely.
+Next (Summer 2016) semester will have a full repo from the start.
+Please make sure [you review
+it](https://github.com/skiltak/pro-project-summer-2016).
 
-This year, however, the documentation requirement will be less. 
-
-Please immediately read the [schedule](schedule.md) for the remaining
-weeks of Winter 2016.
+This Winter semester, however, the documentation requirement will
+be less. All that is required is that you fill out the [**Final
+Report**](report.md) by the 5:30 PM Saturday, April 30. Please take
+this assignment seriously since it will be presented to your parents
+as well as weigh in the decision to offering continuing Pro invites
+for Summer.
 
 Thanks for the great work you have done this semester, for yourselves
 and for SkilStak.
