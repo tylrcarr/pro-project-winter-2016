@@ -11,7 +11,7 @@ specific semester.
 
 Next (Summer 2016) semester will have a full repo from the start.
 Please make sure [you review
-it](https://github.com/skiltak/pro-project-summer-2016).
+it](https://github.com/skilstak/pro-project-summer-2016).
 
 This Winter semester, however, the documentation requirement will
 be less. All that is required is that you fork this repo and fill
