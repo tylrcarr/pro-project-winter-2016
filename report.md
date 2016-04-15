@@ -2,18 +2,12 @@
 
 *Replace this sample with your own report*
 
-*Write an overall summary of the project in a few sentances here, your
-impressions, your accomplishments. Keep in mind this is public and
-will be read by your peers, parents, and others.*
+We did a great job in creating this web server. There was a lot of work on the backend that I completed successfully and there was a lot that Troy did. 
 
 ## Lessons Learned
 
-*Replace this with a description of what you would do differently,
-things you may have failed at, but learned from. The best entrepreneurs
-and innovators fail more than others because they try more things.
-What did you learn from your successes and failures.*
+There was a lot of stuff that we didn't get to, such as a search bar and the admin page completion. I learned a lot about Mongo and Node.
 
 ## Next Steps
 
-*Create a summary of what you would like to do next, if anything, with
-this project. Often a Pro project can be ongoing between semesters.*
+I honestly don't even know what I want to do. I might redo this in Go, maybe I'll improve the CSS to this, maybe I will create a new project.
